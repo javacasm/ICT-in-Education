@@ -21,16 +21,16 @@
 	* Licencias CC
 
 # Herramientas open-source
-	* ¿Qué es open-source? 
-	* Linux
-	* ¿por que usarlas?
-	* Herramientas de edición: OpenOffice
-	* Herramientas de vídeo
-	* Herramientas de sonido
-	* Herramientas de diseño
+
+* ¿Qué es open-source? 
+* Linux
+* ¿por que usarlas?
+* Herramientas de edición: OpenOffice
+* Herramientas de vídeo
+* Herramientas de sonido
+* Herramientas de diseño
 
 # Móviles y tabletas en el aula
-	* ¿Se pueden usar?
-	* ¿se deben usar?
-	* Apps educativas
-	
+* ¿Se pueden usar?
+* ¿se deben usar?
+* Apps educativas
