@@ -23,7 +23,11 @@
 # Herramientas open-source
 
 * ¿Qué es open-source? 
+* ¿sólo código?
+* ¿para qué me puede servir?
+* ¿proyecto pequeños?
 * Linux
+
 * ¿por que usarlas?
 * Herramientas de edición: OpenOffice
 * Herramientas de vídeo
