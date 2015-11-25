@@ -47,7 +47,7 @@
 
 ### [level 1](https://studio.code.org/hoc/1/)
 
-### Games
+### [Games](https://studio.code.org/s/playlab/stage/1/puzzle/10)
 
 ### Let's see something more complex
 
@@ -82,11 +82,12 @@
 
 ![cuadradoSinBucle](./images/CuadradoSinBucle.png)
 
-### But we can make it easy!!
+### But we can make it easier !!
 
-	We are going to repeat 4 times:
-		1. line
-		2. turn
+We are going to repeat 4 times:
+
+	1. line
+	2. turn
 
 ![cuadradoConBucle](./images/CuadradoConBucle.png)
 
@@ -98,16 +99,18 @@
 
 ![Spirograph](./images/Spirograph.png)
 
-### Android
+### Programming Android Apps
 
 ![img](./images/app-inventor.jpg )
+
+There is a easy way to program Android apps...
 
 [App Inventor](http://ai2.appinventor.mit.edu/#4847958752231424)
 
 ## Much powerful that it looks at first sight
 
 
-![img](./images/Interfície_App_Inventor.png)
+![img](./images/Interface_App_Inventor.png)
 
 ![blocks](./images/appInventorBlocks.png)
 
