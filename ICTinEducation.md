@@ -11,7 +11,7 @@ José Antonio Vacas, @javacasm
 It's not about Learning to use the Computer, its about finding a better way to learning everything
 
 
-|Schedule||
+|Schedule|
 |--|--|
 |9:00 - 11:00| Open Source World|
 | Relaxing Time ||
