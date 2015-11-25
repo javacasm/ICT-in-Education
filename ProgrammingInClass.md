@@ -57,9 +57,21 @@
 
 ### More complicated applications: snap
 
-[Scratch] (http://snap.berkeley.edu/snapsource/snap.html)
+[Scratch](http://snap.berkeley.edu/snapsource/snap.html)
 
 
+### Android
+
+![img](./images/app-inventor.jpg )
+
+[App Inventor](http://ai2.appinventor.mit.edu/#4847958752231424)
+
+## Much powerful that it looks at first sight
+
+
+![img](./images/Interfície_App_Inventor.png)
+
+![blocks](./images/appInventorBlocks.png)
 
 ## Practical examples
 
