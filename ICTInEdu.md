@@ -1,4 +1,6 @@
-# Publishing in internet:
+# Abstract
+
+## Publishing in internet:
 
 * Blogs:
 	* How to create a blog?
@@ -19,13 +21,8 @@
 	* Why open Licences?
 	* CC Licenses
 
-# Open-source Tools
+## Open-source Tools
 
-* What is open-source?
-* Only for code?
-* What can I do with open Tools?
-* Only for small projects?
-* Linux
 
 * Why using Open-source Tools?
 * Doing your office works: OpenOffice
@@ -33,7 +30,7 @@
 * Editing sound
 * Designing Time
 
-# Smartphones & Tablets in class?
+## Smartphones & Tablets in class?
 * Can we use them?
 * Should we use them?
 * Educative Apps
