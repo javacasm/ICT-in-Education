@@ -27,3 +27,7 @@
 * We can learn to recycle materials
 * Working in projects
 * Do I need a garage?
+
+![roboticaDIY.jpg](./images/roboticaDIY.jpg)
+
+![halloween](./images/halloween.jpg)
