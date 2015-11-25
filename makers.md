@@ -1,16 +1,10 @@
 # Teaching to make
 
-* Physical Computing
 * Making things
-  * Programming
+  * Programming (Physical Computing)
   * Electronics
   * 3D Designing
   * 3D Printing
-
-
-
-![./Licencia CC.png](./images/Licencia_CC.png)
-
 
 ### "Open" is diverse
 
@@ -44,3 +38,50 @@
 ![github](./images/githubAndreas.png)
 
 ### You can make it, even improve it!
+
+
+# Physical Computing
+
+Building interactive physical systems using our own software
+
+  * Creating things that move an make what we want:  Robots
+
+![Physical_computing.svg.png](./images/Physical_computing.svg.png)
+
+* Making things (Physical Computing)
+
+  * Programming: Scratch, blockly
+  * Electronics: Using modular Electronics
+  * 3D Designing: Freecad
+  * 3D Printing: Reprap
+
+  ## 3DPrinting
+
+  ![i2](./images/i2.jpg)
+
+Using:
+  * Arduino
+  * Freecad
+  * Open Hardware [RepRap](http://reprap.org/)
+
+
+  How does 3d Printing work?
+
+![FFF.png](./images/FFF.png)
+
+RepRap Movement: [Adrian Bowyer](http://en.wikipedia.org/wiki/Adrian_Bowyer) invented [Machine Self-Replication](http://reprap.org/wiki/About#Machine_Self-Replication)
+
+![600px-Pc-va.jpg](./images/600px-Pc-va.jpg)
+
+## Some Models:
+
+* Architects
+
+![bridge.jpg](./images/bridge.jpg)
+
+## Engineers
+
+([Engines](https://github.com/gNSortino/OSREngines))
+
+![motor](./images/motor.jpg)
+![turbine.jpg](./images/turbine.jpg)
