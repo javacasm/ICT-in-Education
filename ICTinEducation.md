@@ -20,9 +20,9 @@ Schedule
 
   11:30 - 13:00  [Open-source tools](./OpenSourceTools.md) [(Maker)](makers.md) [(Robotics)](./robotics.md)
 
-  13:00 - 15:30  Lunch break
+  13:00 - 15:00  Lunch break
 
-  13:30 - 16:30 [Programming Time](./ProgrammingInClass.md)
+  15:00 - 16:30 [Programming Time](./ProgrammingInClass.md)
 
 ## [Resources](./resources.md)
 
