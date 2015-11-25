@@ -1,23 +1,23 @@
-# Publicación en internet:
+# Publish in internet:
 
 * Blogs:
 	* How to create a blog?
 	* Where can we create it?
-ra
+
 * Social networks:
 	* How many Social networks exit?
 	* Which one to use?
 	* Networks for teachers
 
-* Sharing fils:
+* Sharing files:
 	* Dropbox
 	* Web Hosting
 	* FTP
 
 * Licenses
-	* Open Licences or Copyright?
+	* Open Licenses or Copyright?
 	* Why open Licences?
-	* CC Licences
+	* CC Licenses
 
 # Open-source Tools
 
@@ -33,7 +33,7 @@ ra
 * Editing sound
 * Designing Time
 
-# Smartphone & Tablets in class?
+# Smartphones & Tablets in class?
 * Can we use them?
 * Should we use them?
-* Educative Apps 
+* Educative Apps
