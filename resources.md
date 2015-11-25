@@ -1,7 +1,16 @@
 # Free Resources
 
-## Learning Computer Science
 
+## Projects (makers)
+
+* [Instructables](http://instructables.com)
+* [MakeZine](http://makezine.com)
+* [HackaDay](http://hackaday.com)
+* [github](https://github.com) (almost all [my courses' docs](https://github.com/javacasm))
+
+## Free courses (MOOC)
+
+* [Khan Academy](https://www.khanacademy.org/)
 * [Coursera](www.coursera.org) ([Computer Science courses](https://www.coursera.org/browse/computer-science?languages=en))
     For beginners: [Programming for Everybody (Python)](https://class.coursera.org/pythonlearn-003)
 
