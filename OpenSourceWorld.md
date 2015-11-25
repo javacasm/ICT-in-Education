@@ -25,12 +25,25 @@
   * Low costs
   * Invert the money in what it really worth
 
-		80% of Internet's server uses Linux or free software
-
-		* Apache Web server
 
 
 # Projects open-source
+
+## Linux
+
+80% of Internet's server uses Linux or free software
+
+* Apache Web server
+
+![linux](./images/linux.jpg)
+
+* [History](https://en.wikipedia.org/wiki/History_of_Linux):
+  * In 1991, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) starts some tests
+  * Now more than 18.000.000 lines of 
+
+![Linus_Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/330px-Linus_Torvalds.jpeg)
+
+
 
 ## Raspberry:
 
