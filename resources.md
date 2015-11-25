@@ -90,3 +90,15 @@
 ## Teaching Computing/programming
 
 * [European Schoonet](http://www.europeanschoolnetacademy.eu) [Introducing Computing in your classroom](* [European Schoonet](http://www.europeanschoolnetacademy.eu/web/introducing-computing-in-your-classroom))
+
+## Programming
+
+### [code.org](http://code.org)
+
+### [Scratch](https://scratch.mit.edu/projects/editor/)
+### [Snap](http://snap.berkeley.edu/snapsource/snap.html)
+### [App Inventor](http://ai2.appinventor.mit.edu/#4847958752231424)
+
+## 3D
+
+### [thinkerkad](https://www.tinkercad.com/)
