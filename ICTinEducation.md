@@ -25,3 +25,5 @@ Schedule
   13:30 - 16:30 [Programming Time](./ProgrammingInClass.md)
 
 ## [Resources](./resources.md)
+
+## [Some Tasks](./task.md)
