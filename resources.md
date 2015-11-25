@@ -3,7 +3,10 @@
 ## Learning Computer Science
 
 * [Coursera](www.coursera.org) ([Computer Science courses](https://www.coursera.org/browse/computer-science?languages=en))
+    For beginners: [Programming for Everybody (Python)](https://class.coursera.org/pythonlearn-003)
+
 * [edX](https://www.edx.org/)
+
 * [Udacity](https://www.udacity.com/)
 
 <ul class="carousel-list">
