@@ -29,15 +29,22 @@
 
 ![grande](./images/IMG_20150122_200542.jpg)
 
-### Even AWESOME projects
+### Even ... AWESOME projects!!!
 
 ![increible](./images/andreasHolldorferArm.png)
 
-###  And everythin open, free!!!
+###  And everything is open, free!!!
 
 ![github](./images/githubAndreas.png)
 
-### You can make it, even improve it!
+### You can make it, test it, improve it!
+
+### Where can we find those projects?
+
+* [Instructables](http://instructables.com)
+* [MakeZine](http://makezine.com)
+* [HackaDay](http://hackaday.com)
+* [github](https://github.com) (almost all [my courses' docs](https://github.com/javacasm))
 
 
 # Physical Computing
