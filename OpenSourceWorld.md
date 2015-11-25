@@ -27,3 +27,17 @@
 80% of Internet's server uses Linux or free software
 
 * Apache Web server
+
+projects
+
+# Projects
+
+## Raspberry:
+
+  * Low cost (25$) computer that every child can use at home & school.
+  * It has not cover in order to fire the curiosity
+  * Several millions have been sold...
+
+![rasp](./images/ModeloB.jpg)
+
+![OLPC_classroom_teaching.JPG](./images/OLPC_classroom_teaching.JPG)
