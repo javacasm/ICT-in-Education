@@ -6,9 +6,7 @@
 
 ## Open-source Tools
 
-
-* Why using Open-source Tools?
-* Doing your office works: [OpenOffice](https://www.openoffice.org/es/)
+### Office works: [OpenOffice](https://www.openoffice.org/es/)
 
 ![openoffice](./images/calc-big.png)
 
@@ -19,7 +17,7 @@
 
 [Documentation](https://www.openoffice.org/es/soporte/documentacion.html)
 
-* Editing Images: [Gimp](http://www.gimp.org/)
+### Editing Images: [Gimp](http://www.gimp.org/)
 
 * Filters
 * Cut & Paste
@@ -29,7 +27,7 @@
 
 [Tutorials](http://www.gimp.org/tutorials/) [video tutorial](https://www.youtube.com/watch?v=P143GdVeMjE)
 
-* Editing video: [Avidemux](http://fixounet.free.fr/avidemux/)
+### Editing video: [Avidemux](http://fixounet.free.fr/avidemux/)
 
 ![avidemux](./images/avidemux.png)
 
@@ -39,7 +37,7 @@
 
 [Video tutorial](https://www.youtube.com/watch?v=X23I2BZ4J5A)
 
-* Editing sound: [Audacity](http://audacityteam.org/?lang=en)
+### Editing sound: [Audacity](http://audacityteam.org/?lang=en)
 
 ![Audacity](./images/audacity-macosx.png)
 
@@ -49,18 +47,18 @@
 
   [Vídeo tutorial](https://www.youtube.com/watch?v=3uqCNjbQn54)
 
-* 2D Designing: [InkScape](https://inkscape.org/en/)
+### 2D Designing: [InkScape](https://inkscape.org/en/)
 ![InkScape](./images/inkscape.png)
 
 [Video tutorial](https://www.youtube.com/watch?v=Pd02Q-54wuQ)
 
-* 3D Designing: [Freecad](www.freecadweb.org/)
+### 3D Designing: [Freecad](www.freecadweb.org/)
 
 ![freecad](./images/freecad.jpg)
 
 [Video tutorials](https://www.youtube.com/watch?v=_HEvhclR4-o&list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj)
 
-[Blender](https://www.blender.org/)
+### Animations: [Blender](https://www.blender.org/)
 
 * 3D Designing
 * Creating [Movies](http://archive.blender.org/features-gallery/movies/)
