@@ -19,21 +19,21 @@ ra
 	* Why open Licences?
 	* CC Licences
 
-# Herramientas open-source
+# Open-source Tools
 
-* ¿Qué es open-source?
-* ¿sólo código?
-* ¿para qué me puede servir?
-* ¿proyecto pequeños?
+* What is open-source?
+* Only for code?
+* What can I do with open Tools?
+* Only for small projects?
 * Linux
 
-* ¿por que usarlas?
-* Herramientas de edición: OpenOffice
-* Herramientas de vídeo
-* Herramientas de sonido
-* Herramientas de diseño
+* Why using Open-source Tools?
+* Doing your office works: OpenOffice
+* Editing video
+* Editing sound
+* Designing Time
 
-# Móviles y tabletas en el aula
-* ¿Se pueden usar?
-* ¿se deben usar?
-* Apps educativas
+# Smartphone & Tablets in class?
+* Can we use them?
+* Should we use them?
+* Educative Apps 
