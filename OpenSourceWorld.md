@@ -6,6 +6,7 @@
 * Open Licenses or Copyright?
 * Why open Licences?
 * CC Licenses
+* [How to Choose a License](http://creativecommons.org/choose/?lang=en) ([More details](http://choosealicense.com/))
 
 ## Open Source
 
@@ -13,18 +14,17 @@
   * Only for code?
   * What can I do with open Tools?
   * Only for small projects?
-	  * Linux
+    * Linux
     * 3D Printers
 
   * We teach to the children  that ...
       * They can control the tools
-      * Using pirate software is not legal
-
+      * Using illegal software is not OK...
 
   * They are free
   * Low costs
   * Invert the money in what it really worth
-
+  * Multiplatform
 
 
 # Projects open-source
@@ -42,7 +42,6 @@
   * Now more than 18.000.000 lines of
 
 ![Linus_Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/330px-Linus_Torvalds.jpeg)
-
 
 
 ## Raspberry:
