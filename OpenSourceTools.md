@@ -49,10 +49,19 @@
 
   [Vídeo tutorial](https://www.youtube.com/watch?v=3uqCNjbQn54)
 
-* 3D Designing Time: [Freecad](www.freecadweb.org/)
+* 2D Designing: [InkScape](https://inkscape.org/en/)
+![InkScape](./images/inkscape.png)
+
+[Video tutorial](https://www.youtube.com/watch?v=Pd02Q-54wuQ)
+
+* 3D Designing: [Freecad](www.freecadweb.org/)
 
 ![freecad](./images/freecad.jpg)
 
 [Video tutorials](https://www.youtube.com/watch?v=_HEvhclR4-o&list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj)
+
+[Blender](https://www.blender.org/)
+
+![blender](./images/blender.jpg)
 
 ## [Tools to make](makers.md)
