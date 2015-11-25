@@ -13,7 +13,7 @@
   * Only for code?
   * What can I do with open Tools?
   * Only for small projects?
-	    * Linux
+	  * Linux
     * 3D Printers
 
   * We teach to the children  that ...
@@ -39,7 +39,7 @@
 
 * [History](https://en.wikipedia.org/wiki/History_of_Linux):
   * In 1991, [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) starts some tests
-  * Now more than 18.000.000 lines of 
+  * Now more than 18.000.000 lines of
 
 ![Linus_Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Linus_Torvalds.jpeg/330px-Linus_Torvalds.jpeg)
 
