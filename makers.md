@@ -93,4 +93,4 @@ RepRap Movement: [Adrian Bowyer](http://en.wikipedia.org/wiki/Adrian_Bowyer) inv
 * [Thingiverse](http://www.thingiverse.com)
 * [yeggi](http://www.yeggi.com/)
 * [MyMiniFactory](https://www.myminifactory.com/)
-*[GrabCad](https://grabcad.com/)
+* [GrabCad](https://grabcad.com/)
