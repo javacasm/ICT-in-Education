@@ -55,10 +55,48 @@
 
 [game code.org](https://studio.code.org/s/playlab/stage/1/puzzle/10)
 
-### More complicated applications: snap
+### More complicated applications: Scratch
 
-[Scratch](http://snap.berkeley.edu/snapsource/snap.html)
+#### [Scratch](https://scratch.mit.edu/projects/editor/) or [Snap](http://snap.berkeley.edu/snapsource/snap.html) (it depends of the platforms)
 
+
+### Therefore we need to take all the steps
+
+### We have to say when we use the pen and where we begin to draw
+
+
+### Square
+
+### Let's draw a square
+
+### We have these steps:
+
+	1. line
+	2. turn
+	3. line
+	4. turn
+	5. line
+	6. turn
+	7. line
+	8. turn
+
+![cuadradoSinBucle](./images/CuadradoSinBucle.png)
+
+### But we can make it easy!!
+
+	We are going to repeat 4 times:
+		1. line
+		2. turn
+
+![cuadradoConBucle](./images/CuadradoConBucle.png)
+
+### And what if we do more than 4 turns?
+
+![Espiral](./images/Espiral.png)
+
+### And if we repeat many squares?
+
+![Spirograph](./images/Spirograph.png)
 
 ### Android
 
