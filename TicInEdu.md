@@ -1,28 +1,27 @@
 # Publicación en internet:
 
 * Blogs:
-	* ¿como hacer un blog?
-	* ¿dónde hacerlo?
+	* How to create a blog?
+	* Where can we create it?
+ra
+* Social networks:
+	* How many Social networks exit?
+	* Which one to use?
+	* Networks for teachers
 
-* Redes sociales:
-	* ¿cuántas hay?
-	* Cuales usar
-	* Uso en docencia
-	* ¿redes docentes?
-
-* Compartir ficheros:
+* Sharing fils:
 	* Dropbox
-	* Alojamiento web
+	* Web Hosting
 	* FTP
 
-* Licencias
-	* ¿ Licencia abierta o Copyright?
-	* ¿ Por qué compartir?
-	* Licencias CC
+* Licenses
+	* Open Licences or Copyright?
+	* Why open Licences?
+	* CC Licences
 
 # Herramientas open-source
 
-* ¿Qué es open-source? 
+* ¿Qué es open-source?
 * ¿sólo código?
 * ¿para qué me puede servir?
 * ¿proyecto pequeños?
