@@ -62,6 +62,12 @@
 
 [Blender](https://www.blender.org/)
 
+* 3D Designing
+* Creating [Movies](http://archive.blender.org/features-gallery/movies/)
+    * Animations [Sintel](https://www.youtube.com/watch?v=eRsGyueVLvQ)
+    * Human & Animations [Tears of steels](https://www.youtube.com/watch?v=R6MlUcmOul8)
+
+
 ![blender](./images/blender.jpg)
 
 ## [Tools to make](makers.md)
