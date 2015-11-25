@@ -1,4 +1,4 @@
-# Publish in internet:
+# Publishing in internet:
 
 * Blogs:
 	* How to create a blog?
