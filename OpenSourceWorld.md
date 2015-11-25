@@ -13,3 +13,7 @@
   * What can I do with open Tools?
   * Only for small projects?
   * Linux
+
+80% of Internet's server uses Linux or free software
+
+* Apache Web server
