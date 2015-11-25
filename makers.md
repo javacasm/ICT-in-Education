@@ -85,3 +85,12 @@ RepRap Movement: [Adrian Bowyer](http://en.wikipedia.org/wiki/Adrian_Bowyer) inv
 
 ![motor](./images/motor.jpg)
 ![turbine.jpg](./images/turbine.jpg)
+[Model](https://www.thingiverse.com/thing:392115)
+
+#### Repositories
+
+* [youimagine](https://www.youmagine.com)
+* [Thingiverse](http://www.thingiverse.com)
+* [yeggi](http://www.yeggi.com/)
+* [MyMiniFactory](https://www.myminifactory.com/)
+*[GrabCad](https://grabcad.com/)
