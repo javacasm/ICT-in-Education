@@ -58,8 +58,10 @@ Building interactive physical systems using our own software
 * Making things (Physical Computing)
 
   * Programming: Scratch, blockly
-  * Electronics: Using modular Electronics, kits
-  * 3D Designing: Freecad
+  * Electronics: Using modular Electronics, kits, Fritzing [Circuits.io](http://123d.circuits.io)
+  ![electyronics](./images/thumbnail20151120-30057-1a5u1ds.png)
+  * 3D Designing: Freecad, [thinkerkad](https://www.tinkercad.com/)
+  ![3d](./images/nombre3D.png)
   * 3D Printing: Reprap
 
   ## 3DPrinting
