@@ -3,9 +3,9 @@
 
 ## Licenses
 
-	* Open Licenses or Copyright?
-	* Why open Licences?
-	* CC Licenses
+* Open Licenses or Copyright?
+* Why open Licences?
+* CC Licenses
 
 ## Open Source
 
@@ -13,8 +13,8 @@
   * Only for code?
   * What can I do with open Tools?
   * Only for small projects?
-    * Linux
-    * 3D Printing
+	    * Linux
+    * 3D Printers
 
   * We teach to the children  that ...
       * They can control the tools
@@ -25,13 +25,12 @@
   * Low costs
   * Invert the money in what it really worth
 
-80% of Internet's server uses Linux or free software
+		80% of Internet's server uses Linux or free software
 
-* Apache Web server
+		* Apache Web server
 
-projects
 
-# Projects
+# Projects open-source
 
 ## Raspberry:
 
@@ -61,6 +60,9 @@ Next years every child between 11 and 12 will get one
 
 ## [One Laptop Per Child (OLPC)](http://one.laptop.org/)
 
+![aulaOLPC](./images/olpc.jpg)
+
 ![OLPC_classroom_teaching.JPG](./images/OLPC_classroom_teaching.JPG)
 
-![aulaOLPC](./images/olpc.jpg)
+* No need of electricity (hand crank)
+* Robust
