@@ -18,7 +18,7 @@ Schedule
 
   11:00 - 11:30  Relaxing Time
 
-  11:30 - 13:00  [Open-source tools](./OpenSourceTools.md) [Maker](makers.md) [Robotics](./robotics.md)
+  11:30 - 13:00  [Open-source tools](./OpenSourceTools.md) [(Maker)](makers.md) [(Robotics)](./robotics.md)
 
   13:00 - 15:30  Lunch break
 
