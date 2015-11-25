@@ -4,7 +4,7 @@
 * Easy to use (very similar to similar softwares)
 * It is totaly free
 
-## Open-source Tools
+## Some examples...
 
 ### Office works: [OpenOffice](https://www.openoffice.org/es/)
 
@@ -68,4 +68,4 @@
 
 ![blender](./images/blender.jpg)
 
-## [Tools to make](makers.md)
+## There are some [tools to make](makers.md)
