@@ -27,3 +27,5 @@ Schedule
 ## [Resources](./resources.md)
 
 ## [Some Tasks](./task.md)
+
+## [Conclusions](./conclusions.md)
